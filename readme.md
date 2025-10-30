@@ -74,7 +74,4 @@ Future updates will expand functionality, language support, and integration opti
 
 Feel free to contact me for more info!
 
----
-
-### 🦅 *Sokol — Elevate Your Aerial Operations.*
 
