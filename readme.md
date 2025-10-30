@@ -50,7 +50,7 @@ Built for professional drone operators — especially **firefighting and emergen
 
 | Connected Drones | Flight History | Flight Report |
 |:----------------:|:---------------:|:--------------:|
-| ![Insert screenshot here](http://gravemap.eu/assets/img/home.png) | ![Insert screenshot here](http://gravemap.eu/assets/img/history.png) | ![Insert screenshot here](http://gravemap.eu/assets/img/report.png) |
+| ![Insert screenshot here](screenshots/home.png) | ![Insert screenshot here](screenshots/history.png) | ![Insert screenshot here](screenshots/report.png) |
 
 ---
 
